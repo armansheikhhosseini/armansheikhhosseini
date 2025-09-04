@@ -1,16 +1,16 @@
-## Hi there 👋
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-<!--
-**armansheikhhosseini/armansheikhhosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+hi, im arman 🔮.
 
-Here are some ideas to get you started:
+@@Cybersecurity msc student.@@
++ living in turin, italy.
+- 30 years old
+! DevOps engineer, programmer, Ethical Hacker
+# 📖 reverse engineering, computer science
+```
+------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=armansheikhhosseini&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armansheikhhosseini&layout=compact&theme=vision-friendly-dark)
+![visitors](https://komarev.com/ghpvc/?username=armansheikhhosseini&style=flat-square)
