@@ -14,11 +14,4 @@
 
 ---
 
-
-### 📈 Activity
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=armansheikhhosseini&theme=redical&hide_border=true)
-
----
-
 ![visitors](https://komarev.com/ghpvc/?username=armansheikhhosseini&style=flat-square&color=blueviolet)
